@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="cloudbroker.master.cs" Inherits="ServiceOperator.cloudbroker" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <link href="StyleSheet/SignUp.css" rel="stylesheet" type="text/css" /> 
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="page">
+    <div id="h1">
+        <h1 class="style1">
+           Trust Aware Brokering System For Resource Distribution In Large Scale Multiple Cloud Environment</h1>
+    </div>
+    <div id="menu">
+        <ul>
+            <li><a href="cloudhome.aspx">Home</a></li>
+            <li><a href="userrequest.aspx">View Request</a></li>
+            <li><a href="viewprovider.aspx">View Provider</a></li>
+            <li><a href="uploaduserdata.aspx">Uploaded Data</a></li>            
+            <li><a href="Home.aspx">LogOut</a></li>
+        </ul>
+    </div><br /><br />
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,25 @@
+EP2015CN263525
+According to Definitions 1 and 2, SOTS belongs to the
+TTP-based approach [6], with the broker acting as the TTP.
+According to Definition 3, SOTS is also an expanded trust
+evaluation approach [12], beyond traditional trust schemes
+that always focus on one-sided trust factors of service
+resources. The expanded trust model incorporates security,
+reliability, and availability factors into a trust vector. Thus,
+the new trust scheme will contain data that can be imported
+from existing models (that is, security, reliability, availability)
+to form a comprehensive trust model for a multiple
+cloud environment.
+3.2 Trust-Aware Brokering System Architecture
+Fig. 2 shows a schematic of our architecture. Conceptually,
+the proposed middleware architecture consists of a number
+of core modules, including the trusted resource matchmaking
+and distributing module, the adaptive trust evaluation
+module, the agent-based service operator acquisition module,
+and the resource management module, among others.
+Adaptive trust evaluation module. This module is the core
+of the trust-aware cloud computing system, and is the major
+focus of this paper. Using this module, the broker can
+dynamically sort high-performance resources by analyzing
+the historic resource information in terms of providing
+highly trusted resources.

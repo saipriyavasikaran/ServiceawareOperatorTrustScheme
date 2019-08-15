@@ -1,0 +1,106 @@
+﻿body 
+{
+    height:auto;
+    width:auto;  
+     
+}
+
+#table
+{
+    
+    border-bottom-color:#efefef;
+    text-align:center;
+}
+#h1
+{
+    text-align: center;
+    background-color:#009999;
+    color:White;
+}
+#menu 
+{
+text-align:center;
+background:none;
+margin:20px auto 20px auto;
+
+}
+
+#menu ul li 
+{
+    position:relative; 
+    float:left; 
+    margin:0 5px; 
+    padding-top:4px;
+    list-style:none;
+    text-align:center;
+    }
+#menu ul li a 
+{
+    display:block; 
+    height:26px; 
+    line-height:23px; 
+    padding:0px 10px 0px 10px; 
+    float:left; 
+    color:White; 
+    text-align:center;
+    text-decoration:none; 
+    font-family:arial, sans-serif; 
+    font-size:20px;
+    background-color:#009999;
+    }
+#menu ul li a b 
+{
+    display:block; 
+    height:26px; 
+    float:left; 
+    padding:0 0 0 20px;
+    }
+  #p
+{
+    text-align:justify;
+    color:Black;  
+    text-indent:50px;
+    
+}
+
+#footer
+{
+    text-align:center;
+    color:#808080;
+    font-size:xx-small;
+    background-color:#006699;
+}
+#menu ul li a:hover, 
+#menu ul li a:active,
+#menu ul li a:focus
+{ 
+    background: url(taba.png) right top; 
+    cursor:pointer; 
+    color:#009999; 
+    line-height:25px;
+    }
+   #menu ul li a:hover b,
+#menu ul li a:active b,
+#menu ul li a:focus b
+{ 
+    background: url(tabb.png) left top; 
+    cursor:pointer;
+}
+.page
+{
+    width: 1060px;
+    height:650px;
+    background-color: InfoBackground;   /* #fff; */
+    margin: 20px auto auto auto;
+    border: 1px solid #496077;
+}
+body   
+{
+    background: #009999;
+    
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    
+}

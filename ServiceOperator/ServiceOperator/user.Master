@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="user.master.cs" Inherits="ServiceOperator.user" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <link href="StyleSheet/SignUp.css" rel="stylesheet" type="text/css" />   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="page">
+    <div id="h1">
+        <h1 class="style1">
+            Trust Aware Brokering System For Resource Distribution In Large Scale Multiple Cloud Environment</h1>
+    </div>
+    <div id="menu">
+        <ul>
+            <li><a href="userhome.aspx">Home</a></li>
+            <li><a href="sendrequest.aspx">Send Request</a></li>
+            <li><a href="message.aspx">Message</a></li>
+            <li><a href="uploaddata.aspx">Upload Data</a></li>
+            <li><a href="downloaddata.aspx">Download</a></li>
+            <li><a href="Home.aspx">LogOut</a></li>
+        </ul>
+    </div><br /><br />
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </div>
+    </form>
+</body>
+</html>

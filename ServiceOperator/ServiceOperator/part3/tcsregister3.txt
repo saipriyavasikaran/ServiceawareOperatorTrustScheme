@@ -1,0 +1,25 @@
+for getting run-time service operators. Another task of
+the module is to publish automatically the monitoring
+agents (MA) in a remote site when a computing task is
+assigned to the site.
+Resource register module. It manages and indexes all the
+resources available from multiple cloud providers, and
+obtains information from each particular cloud resource,
+acting as pricing interface for users, and updating the database
+when new information is available.
+3.3 Statistics-Based Service Operator Measurement
+When matchmaking a resource for users, the cloud broker
+must first consider whether the resource has the required
+capabilities (for example, CPU frequency, memory size, and
+hard disk capacity), and second, whether it is likely to complete
+the task successfully [19]. The first of these considerations
+can be evaluated by the resource�s availability, which
+can determine whether a resource has the required capability
+or not. The second consideration mainly focuses on the
+reliability and security of the resource, which can be evaluated
+by the resource�s service operators. Reliability refers to
+the probability of service for a given duration, and we use
+six operators to reflect this factor. The most basic needs of
+security pertain to the absence of unauthorized access to a
+system. We use the security levels of a service site to
+Fig. 1. Conceptual model.

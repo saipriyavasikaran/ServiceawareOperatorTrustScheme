@@ -1,0 +1,25 @@
+
+
+The underlying assumption of this TTP-based approach
+is that users must trust the third-party broker they decide to
+consult. In actual cases, these brokering systems are often
+managed by larger ISPs with good reputation, so the services
+from these ISPs should have a higher dependability.
+We assume that all resources have unique identities, such
+as the IP address, and that each cloud manager (site) can
+register its resources through these unique identities. This
+paper mainly focuses on the trust management system of
+server sides; thus, we also assume that each cloud site has a
+security mechanism to resist attacks from malicious users
+Trusted resource matchmaking and distributing module. In
+general, each cloud manager registers its service resources
+through the cloud broker. The service user negotiates with
+the service broker on the service-level agreement (SLA)
+details [25]; they eventually prepare an SLA contract.
+According to this contract, the broker selects, and then
+presents highly trusted resources to users from the trusted
+resource pool.
+Agent publish and service operator acquisition module. This
+module is used to monitor the usage of allocated resources
+in order to guarantee the SLA with the user. In interaction,
+the module monitors the resource operators and is responsible

@@ -1,0 +1,41 @@
+c:\users\hp 8440p\documents\visual studio 2010\Projects\ServiceOperator\ServiceOperator\bin\ServiceOperator.dll
+c:\users\hp 8440p\documents\visual studio 2010\Projects\ServiceOperator\ServiceOperator\bin\ServiceOperator.pdb
+c:\users\hp 8440p\documents\visual studio 2010\Projects\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.dll
+c:\users\hp 8440p\documents\visual studio 2010\Projects\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.pdb
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\Dropbox.Api.dll
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\dropboxUpdated.dll
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\OAuthProtocol.dll
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.dll
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\Dropbox.Api.pdb
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\dropboxUpdated.pdb
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\OAuthProtocol.pdb
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.pdb
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.xml
+C:\Users\hp 8440p\Documents\Visual Studio 2010\Projects\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.csprojResolveAssemblyReference.cache
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\ServiceOperator.dll
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\ServiceOperator.pdb
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.dll
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\Dropbox.Api.pdb
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\dropboxUpdated.pdb
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\OAuthProtocol.pdb
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.pdb
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.xml
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\obj\Debug\ResolveAssemblyReference.cache
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.dll
+E:\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.pdb
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\ServiceOperator.dll
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\ServiceOperator.pdb
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.dll
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\Dropbox.Api.pdb
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\dropboxUpdated.pdb
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\OAuthProtocol.pdb
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.pdb
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.xml
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\obj\Debug\ResolveAssemblyReference.cache
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.dll
+E:\1_lisna_documents\AA_dotnet2015projectcoding_cum documents\output_codings\3 Service Operator-Aware Trust Scheme for Resource Matchmaking across Multiple Clouds\sourcecode\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.pdb
+C:\Users\DSquaresoft\Desktop\sourcecode_Service Operator-Aware\ServiceOperator\ServiceOperator\bin\ServiceOperator.dll
+C:\Users\DSquaresoft\Desktop\sourcecode_Service Operator-Aware\ServiceOperator\ServiceOperator\bin\ServiceOperator.pdb
+C:\Users\DSquaresoft\Desktop\sourcecode_Service Operator-Aware\ServiceOperator\ServiceOperator\bin\Newtonsoft.Json.dll
+C:\Users\DSquaresoft\Desktop\sourcecode_Service Operator-Aware\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.dll
+C:\Users\DSquaresoft\Desktop\sourcecode_Service Operator-Aware\ServiceOperator\ServiceOperator\obj\Debug\ServiceOperator.pdb

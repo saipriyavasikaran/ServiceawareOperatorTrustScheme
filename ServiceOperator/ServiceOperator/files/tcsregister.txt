@@ -1,0 +1,76 @@
+EP2015CN263525
+According to Definitions 1 and 2, SOTS belongs to the
+TTP-based approach [6], with the broker acting as the TTP.
+According to Definition 3, SOTS is also an expanded trust
+evaluation approach [12], beyond traditional trust schemes
+that always focus on one-sided trust factors of service
+resources. The expanded trust model incorporates security,
+reliability, and availability factors into a trust vector. Thus,
+the new trust scheme will contain data that can be imported
+from existing models (that is, security, reliability, availability)
+to form a comprehensive trust model for a multiple
+cloud environment.
+3.2 Trust-Aware Brokering System Architecture
+Fig. 2 shows a schematic of our architecture. Conceptually,
+the proposed middleware architecture consists of a number
+of core modules, including the trusted resource matchmaking
+and distributing module, the adaptive trust evaluation
+module, the agent-based service operator acquisition module,
+and the resource management module, among others.
+Adaptive trust evaluation module. This module is the core
+of the trust-aware cloud computing system, and is the major
+focus of this paper. Using this module, the broker can
+dynamically sort high-performance resources by analyzing
+the historic resource information in terms of providing
+highly trusted resources.
+
+
+The underlying assumption of this TTP-based approach
+is that users must trust the third-party broker they decide to
+consult. In actual cases, these brokering systems are often
+managed by larger ISPs with good reputation, so the services
+from these ISPs should have a higher dependability.
+We assume that all resources have unique identities, such
+as the IP address, and that each cloud manager (site) can
+register its resources through these unique identities. This
+paper mainly focuses on the trust management system of
+server sides; thus, we also assume that each cloud site has a
+security mechanism to resist attacks from malicious users
+Trusted resource matchmaking and distributing module. In
+general, each cloud manager registers its service resources
+through the cloud broker. The service user negotiates with
+the service broker on the service-level agreement (SLA)
+details [25]; they eventually prepare an SLA contract.
+According to this contract, the broker selects, and then
+presents highly trusted resources to users from the trusted
+resource pool.
+Agent publish and service operator acquisition module. This
+module is used to monitor the usage of allocated resources
+in order to guarantee the SLA with the user. In interaction,
+the module monitors the resource operators and is responsible
+for getting run-time service operators. Another task of
+the module is to publish automatically the monitoring
+agents (MA) in a remote site when a computing task is
+assigned to the site.
+Resource register module. It manages and indexes all the
+resources available from multiple cloud providers, and
+obtains information from each particular cloud resource,
+acting as pricing interface for users, and updating the database
+when new information is available.
+3.3 Statistics-Based Service Operator Measurement
+When matchmaking a resource for users, the cloud broker
+must first consider whether the resource has the required
+capabilities (for example, CPU frequency, memory size, and
+hard disk capacity), and second, whether it is likely to complete
+the task successfully [19]. The first of these considerations
+can be evaluated by the resource’s availability, which
+can determine whether a resource has the required capability
+or not. The second consideration mainly focuses on the
+reliability and security of the resource, which can be evaluated
+by the resource’s service operators. Reliability refers to
+the probability of service for a given duration, and we use
+six operators to reflect this factor. The most basic needs of
+security pertain to the absence of unauthorized access to a
+system. We use the security levels of a service site to
+Fig. 1. Conceptual model.
+Fig. 2. A trust broker for multi-cloud environments.
